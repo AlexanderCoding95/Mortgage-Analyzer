@@ -1,4 +1,4 @@
-package com.example.demo19;
+
 
 import java.text.NumberFormat;
 import java.util.Scanner;
